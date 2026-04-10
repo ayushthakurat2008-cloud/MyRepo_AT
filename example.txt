@@ -2,4 +2,3 @@ Hello World
 I am Ayush Thakur
 Now I am in remote repository 
 Now I am in new-branch
-Now I am in new-branch2
